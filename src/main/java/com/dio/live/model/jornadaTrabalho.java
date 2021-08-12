@@ -10,7 +10,7 @@ import lombok.*;
 @Builder
 
 public class JornadaTrabalho {
-    private long id;
+    private Long id;
     private String descricao;
 }
 

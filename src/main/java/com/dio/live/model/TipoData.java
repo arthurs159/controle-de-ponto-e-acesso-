@@ -8,8 +8,7 @@ import lombok.*;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-
-public class CategoriaUsuario {
+public class TipoData {
     private Long id;
     private String descricao;
 }
