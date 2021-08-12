@@ -1,5 +1,6 @@
-# diolive
+# Projeto ​A​P​I​ ​Rest​ de um sistema de controle de ponto e acesso .:star:
 
-Api rest para gerenciamento de ponto e controle de acesso.
+Neste projeto tive contato com  muitas tecnologias, utilizei Java, Spring Boot, Hibernate Envers e lombok além de documentar toda a API com Swagger.
 
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+:cloud: ​Projeto para treinar minhas habilidades com Spring Boot. :cloud:
+
